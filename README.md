@@ -1,6 +1,6 @@
 # Elixir desktop application with wxWidget
 
-This is bootstrap sample code for Elixir desktop application development
+This is bootstrap sample code for Elixir desktop application development.
 Elixir is one of the most powerful modern language.
 But most people thinks it dedicated for server development.
 Elixir is based on Erlang. and
